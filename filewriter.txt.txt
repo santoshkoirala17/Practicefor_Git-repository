@@ -1,0 +1,2 @@
+you need to write a file the information taken from user as an input
+name and address
